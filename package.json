@@ -1,0 +1,15 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anshu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "faker": "^5.5.3"
+  }
+}
